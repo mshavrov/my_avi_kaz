@@ -1,0 +1,4 @@
+https://t.me/Kaz_Mass_bot
+
+Готовим команды на установку
+1. .venv\Scripts\activate
